@@ -1,0 +1,17 @@
+{
+	"name": "Movilgas",
+	"version": "1.0.0",
+	"description": "Movilgas",
+	"main": "server.js",
+	"dependencies": {
+		"mqtt": "^2.17.0",
+		"mssql": "^3.3.0",
+		"request": "^2.85.0",
+		"tedious": "^2.3.1"
+	},
+	"scripts": {
+		"start": "node ServerStation.js"
+	},
+	"author": "andres godoy",
+	"license": "ISC"
+}

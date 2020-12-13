@@ -1,0 +1,6 @@
+Observador/
+node_modules/
+Node.bat
+mqtt.log
+server.log
+station.config
